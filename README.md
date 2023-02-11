@@ -76,26 +76,31 @@ Fig. 1: Model of the Cross Road as developed in class.
 ![download (2)](https://user-images.githubusercontent.com/98535942/218255352-73dfc387-2147-496e-bf0a-97425296e6da.png)
 ![download (3)](https://user-images.githubusercontent.com/98535942/218255353-66a5aa08-ee7e-4003-95cb-58f498f3ac42.png)
 
-
 • For this simulation study you will have to make some assumptions about the
 vehicle’s parameters (vehicle size, average and maximum acceleration and
 deceleration) and the driver’s behaviour. You have free choice about these
 assumptions, but the assumptions you made need to be clearly documented in the
 final report.
+
 • The number of vehicles driving to school in the morning is fixed (50) as is the time
 period for each simulation run (30 mins). To obtain statistically meaningful results,
 you have to run multiple simulations. You argue for the number of simulations you
 have chosen.
+
 • Provide suitable graphs for the simulation results (i.e. s/t Graphs, Count Graphs,
 queue length, wait time, travel times) and statistical summaries (i.e. histograms, boxplots).
+
 • All graphs included in the report must have their origin in one of the jupyter
 notebooks provided. Provide the file name and cell number as part of the figure
 caption.
+
 • Use your student ID as initial seed value for all your simulations. Consequently,
 everyone will have different albeit somehow similar results and graphs.
+
 • The teaching material used for this course is updated every semester. Code versions
 from different semesters may be incompatible. Do not use code from previous
 semesters.
+
 • As citation for class material use: C. Horn. Modelling, Simulation, and Optimisation.
 Lecture Notes. National College of Ireland. July 2022
 Deliverables
